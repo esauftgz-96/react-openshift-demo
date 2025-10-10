@@ -1,4 +1,4 @@
-# Base image (e.g. Python, Node.js, Ubuntu, etc.)
+# Base image (e.g. Python, Node.js, Ubuntu, etc.) 
 FROM node:20
 
 # Set the working directory inside the container
